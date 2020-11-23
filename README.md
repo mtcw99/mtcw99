@@ -1,4 +1,4 @@
-* [Website](https://mtcw99.github.io/)
+* [Website](https://mtcw.xyz/)
 * Working on at the moment:
   * Gemini + Gopher Client
   * OpenGL 3 Game Engine
